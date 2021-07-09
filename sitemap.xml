@@ -4,15 +4,12 @@
         <loc>https://cause-effect.link/</loc>
     </url>
     <url>
-        <loc>https://cause-effect.link/_examples/</loc>
-    </url>
-    <url>
-        <loc>https://cause-effect.link/_examples/bridge/</loc>
-    </url>
-    <url>
-        <loc>https://cause-effect.link/_examples/roundabout/</loc>
-    </url>
-    <url>
         <loc>https://cause-effect.link/examples/</loc>
+    </url>
+    <url>
+        <loc>https://cause-effect.link/examples/bridge/</loc>
+    </url>
+    <url>
+        <loc>https://cause-effect.link/examples/roundabout/</loc>
     </url>
 </urlset>
